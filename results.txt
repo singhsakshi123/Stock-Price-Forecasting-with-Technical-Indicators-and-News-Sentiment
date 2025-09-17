@@ -1,0 +1,46 @@
+Baseline evaluation:
+
+AAPL
+=== Test Metrics — LSTM-only (baseline) ===
+RMSE: 14.0973
+MAE : 12.6464
+MAPE: 6.10%
+R^2 : -0.6491
+
+=== Test Metrics — Hybrid (LSTM→XGBoost) baseline ===
+RMSE: 5.0326
+MAE : 4.0717
+MAPE: 1.96%
+R^2 : 0.7898
+>>> DONE baseline_eval.py
+
+
+MSFT
+
+Start: 2024-11-01
+
+End: 2025-05-01
+
+Sentiment: ✅
+
+Epochs: 40
+
+Horizon: 10
+
+TSLA
+
+Start: 2024-09-01
+
+End: 2025-03-01
+
+Sentiment: ✅ (or turn off if you hit news limits)
+
+Epochs: 50
+
+Horizon: 10
+
+NVDA
+
+Start: 2024-10-15
+
+End: 2025-04-15

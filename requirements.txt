@@ -1,0 +1,15 @@
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+scikit-learn==1.5.1
+xgboost==2.1.1
+ta==0.11.0
+plotly==5.23.0
+python-dateutil==2.9.0.post0
+transformers==4.43.3
+tokenizers==0.19.1
+torch==2.3.1
+python-dotenv==1.0.1
+tensorflow-macos==2.15.0
+tensorflow-metal==1.1.0
