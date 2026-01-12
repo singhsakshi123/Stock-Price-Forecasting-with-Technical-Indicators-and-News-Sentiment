@@ -53,7 +53,12 @@ Performance varies by stock volatility and news sensitivity.
 
 
 ## 🔹 Tools & Tech
-Python, Pandas, NumPy, Streamlit, TensorFlow/Keras, XGBoost, HuggingFace (FinBERT), Polygon.io
+- **Programming Language:** Python  
+- **Data & Numerical Computing:** Pandas, NumPy  
+- **Machine Learning / Deep Learning:** TensorFlow / Keras, XGBoost  
+- **NLP & Sentiment Analysis:** HuggingFace Transformers (FinBERT)  
+- **Web App / Visualization:** Streamlit  
+- **Data APIs:** Polygon.io  
 
 
 ## 🔹 Results (Screenshots)
